@@ -1,2 +1,2 @@
-# Automa-oPythonExcel
+# AutomationPythonExcel
 Automação de planilha Excel usando Python
